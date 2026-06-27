@@ -1,0 +1,21 @@
+{
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "preprint.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "preprint.bib"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "preprint.bst"
+      }
+   ],
+   "spec_version" : 1,
+   "texlive_version" : "2025",
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}
